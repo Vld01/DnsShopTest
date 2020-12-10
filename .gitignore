@@ -1,0 +1,10 @@
+# Folder ignoring
+target
+.idea
+build
+
+# File ignoring
+*.log
+*.iml
+*.jar
+*.war
