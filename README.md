@@ -8,7 +8,6 @@
 4. Доработать тесты с использованием PageObject  и PageFactory
 5. Настроить запуск проекта с использованием maven
 
-
 1. открыть dns-shop
 2. в поиске найти playstation
 3. кликнуть по playstation 4 slim black
